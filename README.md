@@ -4,11 +4,11 @@ cara menjalankan nya di terminal secara simple, cukup salin perintah di bawah in
 
 salin perintah ini :
 ```bash
-git clone https://github.com/bactiar291/auto-tx-citrea-testnet.git
+git clone https://github.com/bactiar291/auto-tx-reddio.git
 ```
 masuk ke file dengan perintah 
 ```bash
-cd auto-tx-citrea-testnet
+cd auto-tx-reddio
 ```
 lalu instalasi semua paket yang di perlukan dengan perintah
 ```bash
