@@ -1,0 +1,15 @@
+{
+  "name": "auto-tx-reddio-testnet",
+  "version": "1.0.0",
+  "description": "fitur auto send untuk random address pada testnet reddio",
+  "main": "run.js",
+  "type": "module", 
+  "scripts": {
+    "start": "node run.js"
+  },
+  "dependencies": {
+    "ethers": "^6.0.0",
+    "chalk": "^5.0.0",
+    "figlet": "^1.5.0"
+  }
+}
